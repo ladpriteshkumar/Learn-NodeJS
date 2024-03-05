@@ -5,8 +5,9 @@ Learning Links:
 
    
 # How to check Node.JS in Install in your machine ?
-To check node.JS is installed in your machine. Type node or node -v in command prompt and hit the enter key. It will print node verson in command prompt as showen below.
-  ![Screenshot](CsharpDataType.png)
+To check node.JS is installed in your machine. Type **node** or **node -v** in command prompt and hit the enter key. It will print node verson in command prompt as showen below.
+
+  ![Screenshot](https://github.com/ladpriteshkumar/Learn-NodeJS/blob/e122d6f4f4c75feab576bb5e784ad28929c4a53a/Images/node%20and%20node_v%20command.png)
 
 If node.Js is not installed then it will print the message as showen below in command prompt.
  
