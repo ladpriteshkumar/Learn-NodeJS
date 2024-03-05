@@ -11,6 +11,7 @@ To check node.JS is installed in your machine. Type **node** or **node -v** in c
 
 If node.Js is not installed then it will print the message as showen below in command prompt.
  
+  ![Screenshot](/Images/node_and_node-v_command_node_not_install.png)
 
 # How to Install Node.js?
 Installation of Node.js is very easy. For Windows users, the official downloads page of Node.js (https://nodejs.org/en/download) hosts a installer package. All you need to do it download and run the installation wizard.
