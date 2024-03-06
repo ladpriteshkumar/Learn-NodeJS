@@ -3,6 +3,13 @@
 Learning Links:
 1)	https://www.tutorialspoint.com/nodejs/index.htm
 
+
+# What is Node.js?
+Node.js is a powerful JavaScript runtime environment, built on Google Chrome's V8 JavaScript Engine. Node.js is open-source and cross platform, widely used by thousands of developers around the world to develop I/O intensive web applications like video streaming sites, single-page applications, and other web applications.
+
+Contrary to a perception, Node.js is not a programming language like Python, Java or C/C++. Node.js is a runtime, similar to Java virtual machine, that converts JavaScript code into machine code.
+
+With Node.js, it is possible to use JavaScript as a backend. With JavaScript already being a popular choice for frontend development, application development around MERN (MongoDB, Express, React and Node.js.) and MEAN (MongoDB, Express, Angular and Node.js) stacks is being increasingly employed by developers.
    
 # How to check Node.JS in Install in your machine ?
 To check node.JS is installed in your machine. Type **node** or **node -v** in command prompt and hit the enter key. It will print node verson in command prompt as showen below.
