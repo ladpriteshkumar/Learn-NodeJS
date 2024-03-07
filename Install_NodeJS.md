@@ -39,4 +39,21 @@ To uninstall nodeJS using winget command. Simply open comand prompt and execute 
 ```
 
 
+# Getting Started With Javascript and NodeJS 
+To run your JavaScript code using nodeJS. first need to create index.js file in system directrory (Ex : C:\WorkPlace\ProjectName\index.js ) and write some javascript statement in it. as showen below.
 
+
+```JavaScript
+//Fie: index.js
+
+console.log("First JavaScript Statement using nodeJS")
+
+```
+
+Now open cmd terminal and navigate to the directory where index.js file is located.
+
+```Command Propmt
+ > cd C:\WorkPlace\ProjectName
+```
+
+to Execute code written in index.js file, execute **```node .```** in cmd terminal
