@@ -2,6 +2,7 @@
 
 Learning Links:
 1)	https://www.tutorialspoint.com/nodejs/index.htm
+2)	use-strict in JavaScript :  https://medium.com/@vickeychandrasekarr/strict-mode-use-strict-in-javascript-dc8c13cb3179
 
 
 # What is Node.js?
