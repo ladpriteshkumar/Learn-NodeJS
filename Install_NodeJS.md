@@ -56,4 +56,4 @@ Now open cmd terminal and navigate to the directory where index.js file is locat
  > cd C:\WorkPlace\ProjectName
 ```
 
-to Execute code written in index.js file, execute **```node .```** in cmd terminal
+to Execute code written in index.js file, execute **```node .```** in cmd terminal. alternative you can also use **```node index.js```** to execute code written in index.js file.<br>   index.js is the default file name for ```node .``` command. if you have file name different then index.js then ```node .``` will not work and it throw an error. you have have to use ```node fileName.js``` to execute code written in fileName.js file.
