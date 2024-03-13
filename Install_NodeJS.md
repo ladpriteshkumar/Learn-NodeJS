@@ -64,4 +64,16 @@ to Execute code written in index.js file, execute **```node .```** in cmd termin
 > cd C:\WorkPlace\ProjectName>Node index.js
 ```
 
-index.js is the default file name for ```node .``` command. if you have file name different then index.js then ```node .``` will not work and it throw an error. you have have to use ```node fileName.js``` to execute code written in fileName.js file.
+**index.js** is the default file name for ```node .``` command. if you have file name different then index.js then ```node .``` will not work and it throw an error. you have have to use ```node fileName.js``` to execute code written in fileName.js file.
+
+
+
+**index.js** is the default entry point of  your node application if you don't define in **package.json** file using **"main"** key or you don't have **package.json** file in you node project root directory.
+```JSON
+//File: package.json
+{
+   "main": "entrypointfilename.js"
+}
+```
+
+you can execute entry point of your application using ```node .``` command
