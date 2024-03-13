@@ -5,6 +5,9 @@ Contrary to a perception, Node.js is not a programming language like Python, Jav
 
 With Node.js, it is possible to use JavaScript as a backend. With JavaScript already being a popular choice for frontend development, application development around MERN (MongoDB, Express, React and Node.js.) and MEAN (MongoDB, Express, Angular and Node.js) stacks is being increasingly employed by developers.
 
+----------------------------------
+Node.js is a server-side runtime environment built on Google Chrome's JavaScript Engine (V8 Engine). Node.js is a cross-platform (run on Windows, Linux, Unix, macOS, and more), open-source, back-end JavaScript runtime environment, that executes JavaScript code outside a web browser.
+
 
 # Why Learn Node.js?
 Node.js is used for server-side programming with JavaScript. Hence, you can use a single programming language (JavaScript) for both front-end and back-end development.
