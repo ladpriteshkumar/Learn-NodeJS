@@ -1,5 +1,3 @@
-Learning Resouece : https://heynode.com/tutorial/what-packagejson/#:%7E:text=json%20file%20is%20the%20heart,entry%20point%20to%20our%20package
-
 
 # What is NPM?
 NPM stands for Node Package Manager. NPM is a Command line utility to install Node.js packages, perform version management and dependency management of Node.js packages.
