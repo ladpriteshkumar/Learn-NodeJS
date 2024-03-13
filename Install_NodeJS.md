@@ -78,3 +78,32 @@ to Execute code written in index.js file, execute **```node .```** in cmd termin
 ```
 
 you can execute entry point of your application using ```node .``` command
+
+
+
+# Getting Started With NodeJS web Application
+
+Copy the below code in index.js file.
+
+```JavaScript
+http = require('node:http');
+listener = function (request, response) {
+   // Send the HTTP header
+   // HTTP Status: 200 : OK
+   // Content Type: text/html
+   response.writeHead(200, {'Content-Type': 'text/html'});
+
+   // Send the response body as "Hello World"
+   response.end('<h2 style="text-align: center;">Hello World</h2>');
+};
+
+server = http.createServer(listener);
+server.listen(3000);
+
+// Console will print the message
+console.log('Server running at http://127.0.0.1:3000/');
+```
+
+now run index.js file usning nodeJS using ```node .``` or ```node index.js``` command.
+
+The program starts the Node.js server on the localhost, and goes in the listen mode at port 3000. Now open a browser, and enter http://127.0.0.1:3000/ as the URL. The browser displays the Hello World message as desired.
